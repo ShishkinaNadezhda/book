@@ -1,0 +1,15 @@
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.csproj.AssemblyReference.cache
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.AssemblyInfoInputs.cache
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.AssemblyInfo.cs
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.csproj.CoreCompileInputs.cache
+D:\git\book\Ex_Ura\bin\Debug\net6.0\Ex_Ura.exe
+D:\git\book\Ex_Ura\bin\Debug\net6.0\Ex_Ura.deps.json
+D:\git\book\Ex_Ura\bin\Debug\net6.0\Ex_Ura.runtimeconfig.json
+D:\git\book\Ex_Ura\bin\Debug\net6.0\Ex_Ura.dll
+D:\git\book\Ex_Ura\bin\Debug\net6.0\Ex_Ura.pdb
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.dll
+D:\git\book\Ex_Ura\obj\Debug\net6.0\refint\Ex_Ura.dll
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.pdb
+D:\git\book\Ex_Ura\obj\Debug\net6.0\Ex_Ura.genruntimeconfig.cache
+D:\git\book\Ex_Ura\obj\Debug\net6.0\ref\Ex_Ura.dll
